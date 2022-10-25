@@ -7,3 +7,9 @@ https://github.com/ReinerJasin/ai-app-sys/blob/main/Mid_term_12224827.ipynb
 
 MID TERM NOTES DOCUMENT :
 https://github.com/ReinerJasin/ai-app-sys/blob/main/Mid-term-essay_12224827.pdf
+
+---
+
+Week 9
+GitHub Link : https://github.com/ReinerJasin/ai-app-sys/blob/main/week9_12224827.ipynb
+Topic : Linear Regression for boston housing dataset
