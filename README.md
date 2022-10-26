@@ -13,6 +13,12 @@ https://github.com/ReinerJasin/ai-app-sys/blob/main/Mid-term-essay_12224827.pdf
 Week 9
 <br><br>
 
-GitHub Link : https://github.com/ReinerJasin/ai-app-sys/blob/main/week9_12224827.ipynb
+GitHub Link :
+<br>
+https://github.com/ReinerJasin/ai-app-sys/blob/main/week9_12224827.ipynb
 <br>
 Topic : Linear Regression for boston housing dataset
+<br>
+https://github.com/ReinerJasin/ai-app-sys/blob/main/week9(sess2)_12224827.ipynb (Session 2)
+<br>
+Topic : Regularization, L2 and Dropout Layer
