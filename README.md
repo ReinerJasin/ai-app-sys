@@ -22,3 +22,15 @@ Topic : Linear Regression for boston housing dataset
 https://github.com/ReinerJasin/ai-app-sys/blob/main/week9(sess2)_12224827.ipynb (Session 2)
 <br>
 Topic : Regularization, L2 and Dropout Layer
+
+---
+
+Week 10
+<br><br>
+
+GitHub Link :
+<br>
+https://github.com/online-courses-materials/AICourse/blob/main/Week10_AI_Lab.ipynb
+<br>
+Topic : Probability Prediction with SoftMax and the usage of Keras Sequential API
+<br>
