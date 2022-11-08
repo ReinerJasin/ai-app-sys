@@ -30,7 +30,7 @@ Week 10
 
 GitHub Link :
 <br>
-https://github.com/online-courses-materials/AICourse/blob/main/Week10_AI_Lab.ipynb
+https://github.com/ReinerJasin/ai-app-sys/blob/main/week10_12224827.ipynb
 <br>
 Topic : Probability Prediction with SoftMax and the usage of Keras Sequential API
 <br>
@@ -42,7 +42,7 @@ Week 11
 
 GitHub Link :
 <br>
-https://github.com/online-courses-materials/AICourse/blob/main/Week11_AI_Lab.ipynb
+https://github.com/ReinerJasin/ai-app-sys/blob/main/week11_12224827.ipynb
 <br>
 Topic : Book Sales prediction using Recurrent Neural Network
 <br>
