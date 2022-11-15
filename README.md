@@ -46,3 +46,15 @@ https://github.com/ReinerJasin/ai-app-sys/blob/main/Week11_12224827.ipynb
 <br>
 Topic : Book Sales prediction using Recurrent Neural Network
 <br>
+
+---
+
+Week 12
+<br><br>
+
+GitHub Link :
+<br>
+https://github.com/ReinerJasin/ai-app-sys/blob/main/Week12_12224827.ipynb
+<br>
+Topic : Weather forecast using RNN, LSTM, etc.
+<br>
