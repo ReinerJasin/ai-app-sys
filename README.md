@@ -56,5 +56,9 @@ GitHub Link :
 <br>
 https://github.com/ReinerJasin/ai-app-sys/blob/main/Week12_12224827.ipynb
 <br>
+Model result Link :
+<br>
+https://github.com/ReinerJasin/ai-app-sys/tree/main/model
+<br>
 Topic : Weather forecast using RNN, LSTM, etc.
 <br>
