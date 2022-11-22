@@ -72,5 +72,5 @@ GitHub Link :
 <br>
 https://github.com/ReinerJasin/ai-app-sys/blob/main/Week13_12224827.ipynb
 <br>
-Topic : Natural Language Processing, binary unigram, binary bigram, tf-idf bigram model
+Topic : Natural Language Processing, binary unigram, binary bigram, TF-IDF bigram model
 <br>
