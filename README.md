@@ -74,3 +74,7 @@ https://github.com/ReinerJasin/ai-app-sys/blob/main/Week13_12224827.ipynb
 <br>
 Topic : Natural Language Processing, binary unigram, binary bigram, TF-IDF bigram model
 <br>
+https://github.com/ReinerJasin/ai-app-sys/blob/main/Week13(sess2)_12224827.ipynb
+<br>
+Topic : A sequence model built on one-hot encoded vector sequences
+
