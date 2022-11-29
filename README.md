@@ -77,4 +77,15 @@ Topic : Natural Language Processing, binary unigram, binary bigram, TF-IDF bigra
 https://github.com/ReinerJasin/ai-app-sys/blob/main/Week13(sess2)_12224827.ipynb
 <br>
 Topic : A sequence model built on one-hot encoded vector sequences
+<br>
 
+---
+
+Week 14
+<br><br>
+
+GitHub Link :
+<br>
+https://github.com/ReinerJasin/ai-app-sys/blob/main/Week14_12224827.ipynb
+<br>
+Topic : Natural Language Processing using transformer encoder
