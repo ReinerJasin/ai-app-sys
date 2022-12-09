@@ -8,6 +8,16 @@ https://github.com/ReinerJasin/ai-app-sys/blob/main/Mid_term_12224827.ipynb
 MID TERM NOTES DOCUMENT :
 https://github.com/ReinerJasin/ai-app-sys/blob/main/Mid-term-essay_12224827.pdf
 
+<br>
+
+**FINAL EXAM - YOLO v5 usage on skin problems**
+
+**[LATEST UPDATE]** FINAL EXAM NOTEBOOK LINK :
+https://github.com/ReinerJasin/ai-app-sys/blob/main/Skin_problems_detection_YOLOv5.ipynb
+
+**[LATEST UPDATE]** FINAL EXAM MODEL RESULT :
+https://github.com/ReinerJasin/ai-app-sys/blob/main/model/YOLOv5.pt
+
 ---
 
 Week 9
